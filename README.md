@@ -1,4 +1,4 @@
 csupomona-cs480.github.io
 =========================
 
-CS480 course website
+CS480 Course Website
